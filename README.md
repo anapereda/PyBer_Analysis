@@ -4,7 +4,7 @@ In this assignment we were tasked to perform a data analysis of 2019 Pyber Data 
 ![Fig 1. Pyber Ride-Sharing](https://github.com/anapereda/PyBer_Analysis/blob/master/Analysis/fig1.png)
 
 Fig.1 suggests that a larger number of rides are completed in urban cities, in consequence we see a larger number of drivers and a larger percentage of % fare collected in it. On the other hand, rural city types,  have the lowest percentage of rides and drivers, but fares are widely distributed and having the greatest mean and median fare. Thus we see a negative correlation between price and total number of fares. 
-![Fig.8] (https://github.com/anapereda/PyBer_Analysis/blob/master/Analysis/Fig8.png)
+![Fig.8](https://github.com/anapereda/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 By looking at Fig.8 in the Analysis folder, we see that there is no real correlation between time and fare; urban is always greater than suburban and rural fares. 
 
 During this challenge we did not overcome any major challenge as the data was mainly clean and complete. However this issues are usually overcome by eliminating missing data point or assigning central tendency measures to minimize its effect on the data with the use of the appropriate code. Moreover there are different graphs that offer better pictures of the results and are easier to understand; thus it is important to make good decisions about which graph to use depending on the data. 
